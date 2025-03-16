@@ -2,7 +2,8 @@ asgiref==3.8.1
 dj-database-url==2.3.0
 # Django==5.1.7
 Django==4.2.7
-django-cors-headers==4.7.0
+# django-cors-headers==4.7.0
+django-cors-headers==4.4.0
 gunicorn==23.0.0
 packaging==24.2
 psycopg2-binary==2.9.10
